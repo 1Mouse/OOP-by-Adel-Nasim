@@ -1,0 +1,6 @@
+//in the derived class in public:
+//when u use inheritance type "private"
+//u can make things public using the following syntax
+//base class_name :: member _name only ;
+//this works if the member was public or protected in the base
+//so now u can access them in main
